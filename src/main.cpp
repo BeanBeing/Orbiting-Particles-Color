@@ -1,5 +1,4 @@
 #include <SFML/Graphics.hpp>
-#include <SFML/Window/Keyboard.hpp>
 #include <vector>
 #include <sstream>
 #include <cmath>
